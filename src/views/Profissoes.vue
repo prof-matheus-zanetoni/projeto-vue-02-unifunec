@@ -1,5 +1,5 @@
 <template>
-    <div class="card">
+    <div class="card position-absolute top-50 start-50 translate-middle">
         <div class="card-header text-center">
             <h1>Profissões</h1>
         </div>
