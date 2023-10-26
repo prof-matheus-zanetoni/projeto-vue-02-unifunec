@@ -22,3 +22,5 @@ class ProfissaoService {
         return axiosConfig.delete(`profissao/${codigoProfissao}`);
     }
 }
+
+export default ProfissaoService;
